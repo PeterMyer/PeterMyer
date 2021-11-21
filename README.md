@@ -13,6 +13,21 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+<H2>Hi, I'm Peter</H2>
+
+I'm a full stack developer living in Austin, Texas.  
+  
+Originally self-taught in Python, I formally trained in the Javascript NERD stack(Node.js, Express, React, and Relational DBs) at [Fullstack Academy](https://www.fullstackacademy.com/) in 2021.  
+
+I'm passionate about projects that help people engage in self-improvement and personal growth. 
+
+Currently, I'm especially curious about gamification and dataviz projects for education, skill development and habit building.  
+
+Mostly just trying to learn as much as possible and make tools that will be useful for people.
+
+
+
+
 
 
 <!--
