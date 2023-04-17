@@ -15,13 +15,13 @@
 
 <H2>Hi, I'm Peter</H2>
 
-I'm a full stack developer living in Austin, Texas.  
-  
-Originally self-taught in Python, I formally trained in the Javascript NERD stack(Node.js, Express, React, and Relational DBs) at [Fullstack Academy](https://www.fullstackacademy.com/).
+I'm a full stack React/Node.js developer living in Austin, Texas.  
 
 I'm passionate about projects that help people engage in self-improvement and personal growth. 
 
 Currently, I am working on extending my knowledge around microservice architecture and event-based systems.
+
+You can connect with me at https://www.linkedin.com/in/petermyer/
 
 
 <!--
